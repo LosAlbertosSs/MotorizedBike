@@ -1,0 +1,89 @@
+	* {
+		font-family: courier;
+		color: white;
+		text-shadow: 0px 4px 10px gray;
+		font-weight: bold;
+		margin: 0px;
+		list-style: none;
+	}
+	
+	body {
+		background-color: #280139;
+		
+	}
+	
+	menu {
+		height: 4vw;
+		width: 100vw;
+		position: sticky;
+		background-color: white;
+
+		}
+	
+	s.logo {
+		text-decoration: none; 
+		color: #925EA6;
+		font-size: 1.4vw;
+		display: inline-block;
+		text-align: center;
+		width: 11vw;
+		text-shadow: 0px 0px 8px gray;
+		overflow-wrap: break-word;
+		top: -0.4vh;
+	}
+	
+	table {
+		display: inline-block;
+		left: 20vw;
+		top: 0.3vh;
+		position: relative;
+	}
+	
+		button.button {
+		font-size: 1vw;
+		font-family: courier;
+		color: white;
+		text-shadow: 0px 4px 10px gray;
+		background-color: #280139;
+		border-radius: 5px;
+		border: 1px solid darkgray;
+		box-shadow: 0px 0px 20px gray;
+		height: 3vw;
+		width: 10vw;
+		font-weight: bold;
+	}
+	
+	button.button:hover {
+		transition-duration: 0.4s;
+		font-family: courier;
+		color: #280139;
+		text-shadow: 0px 4px 10px gray;
+		background-color: white;
+	}
+	
+	.goback {
+		text-decoration: none;
+		color: violet;
+	}
+	
+	.fflag {
+		box-shadow: 0px 0px 10px gray;
+		position: center;
+	}
+	
+	.fflag:hover {
+		transition-duration: 0.4S;
+		box-shadow: 0px 0px 40px black;
+		position: center;
+	}
+	
+	.flagm {
+		padding-left: 70%;
+	}
+	
+	li {
+		font-size: 20px;
+		width: 400px; 
+		text-align: center; 
+		margin-left: 38%;
+	}
